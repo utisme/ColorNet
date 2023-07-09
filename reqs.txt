@@ -1,0 +1,6 @@
+conda install -c anaconda beautifulsoup4
+conda install -c anaconda pillow
+conda install -c conda-forge tqdm
+conda install -c anaconda numpy
+conda install -c conda-forge matplotlib
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia

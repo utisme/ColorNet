@@ -1,0 +1,12 @@
+name: stylerNer-env
+channels:
+	- anaconda
+	- conda-forge
+dependencies:
+	- python=3.8
+	- beautifulsoup4=4.11.1
+	- pillow=9.3.0
+	- tqdm
+	- numpy=1.23.5
+	- matplotlib=3.7.1
+

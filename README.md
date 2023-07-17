@@ -19,3 +19,14 @@ orig image:
 ![изображение](https://github.com/edgar32801work/stylerNet/assets/137982094/76e638a0-285a-4fa5-a24f-048bb110ad3d)
 
 
+**ALPHA2:**  
+fake image:
+![image](https://github.com/edgar32801work/stylerNet/assets/137982094/81e74de4-d704-44a5-93d5-9abe139b4dfd)
+
+
+orig image:
+![image](https://github.com/edgar32801work/stylerNet/assets/137982094/6bd9fbe7-00f0-493a-a0cb-d29525558ee8)
+
+
+
+

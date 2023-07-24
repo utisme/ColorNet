@@ -1,10 +1,18 @@
 /images
+/images2
 /.ipynb_checkpoints
 /im_dataset
+/im_dataset2
 /im_dataset_copy
 /images_copy
 /backup
 /checkpoints
 /imagenet_val
 /imagenet_val_mini
+/imageNetpreparation.ipynb
+/wiki_crop
+/tests
+/cyberpunk
+/celebadataset
+/CelebA
 

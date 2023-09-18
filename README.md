@@ -19,11 +19,13 @@ orig image:
 
 **ALPHA2:**  
 fake image:
-![image](https://github.com/edgar32801work/stylerNet/assets/137982094/81e74de4-d704-44a5-93d5-9abe139b4dfd)
+![image](https://github.com/edgar32801work/ColorNet/assets/137982094/89e26607-42ad-4ecd-9d8d-e1d269898ed5)
+
 
 
 orig image:
-![image](https://github.com/edgar32801work/stylerNet/assets/137982094/6bd9fbe7-00f0-493a-a0cb-d29525558ee8)
+![image](https://github.com/edgar32801work/ColorNet/assets/137982094/909c934e-09f3-4f5e-b79f-2ad68d3ef0cc)
+
 
 
 
